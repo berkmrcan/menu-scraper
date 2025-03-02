@@ -7,5 +7,4 @@ dependencies:
   - requests
   - beautifulsoup4
   - openai
-  - pip:
-      - python-dotenv
+  - python-dotenv
