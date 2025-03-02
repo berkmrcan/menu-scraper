@@ -1,0 +1,11 @@
+name: menu
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - pip
+  - requests
+  - beautifulsoup4
+  - openai
+  - pip:
+      - python-dotenv
